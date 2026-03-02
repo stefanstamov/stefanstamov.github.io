@@ -22,7 +22,7 @@ title: Stefan Stamov's Blog
 email: sstamov.business@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 #My name is Stefan and I have over 10 years of experience with VMware virtualization, NSX, Container technologies, public cloud and VMware Cloud Foundation. Enjoy reading :)
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: "stefanstamov.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: stefanstamov
 github_username:  stefanstamov
